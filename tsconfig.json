@@ -7,7 +7,7 @@
     "declarationMap": true,
     "sourceMap": true,
     "outDir": "./dist",
-    "strict": true,
+    "strict": false,
     "rootDirs": ["./src", "./scripts"],
 		"typeRoots": [ "./node_modules/@types", "./scripts/typings" ],
     "esModuleInterop": true,
